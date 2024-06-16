@@ -1,4 +1,7 @@
 # Terminal Website V1.0
+
+Live Demo: [Terminal Website](https://kid-with-anxiety-portfolio.netlify.app/)
+
 A simple and interactive terminal-style website designed to mimic the look and feel of a command-line interface. This project aims to provide a unique and nostalgic user experience by allowing visitors to interact with the website through text commands, similar to how they would operate a real terminal.
 
 <hr>
